@@ -16,7 +16,7 @@
     },
     "require": {
         "php": ">=5.6",
-        "symfony/symfony": "~2.8|~3.0",
+        "symfony/fromework": "~2.8|~3.0|~4.0",
         "guzzlehttp/guzzle": "^6.2.1"
     },
     "autoload": {
@@ -25,7 +25,7 @@
     "target-dir": "DZunke/SlackBundle",
     "extra": {
         "branch-alias": {
-            "dev-dev": "2.0-dev"
+            "dev-master": "2.0-dev"
         }
     }
 }
